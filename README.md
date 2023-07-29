@@ -6,6 +6,9 @@
 
 The "Ecology Movement" project is a comprehensive initiative aimed at protecting the environment and raising awareness about pressing ecological issues. It is designed using Figma to create an engaging and visually appealing user interface.
 
+## The project:
+ ### [Click me!](https://www.figma.com/community/file/1267136705316632533)
+
 ## Features
 
  ### Main Page
