@@ -1,6 +1,6 @@
 # Ecology Movement Project
 
-![Ecology Movement](link_to_project_image.png)
+![Ecology Movement]([link_to_project_image.png](https://cdn.discordapp.com/attachments/1130961370138030171/1134864612370677790/ImageLogo.png))
 
 ## Overview
 
