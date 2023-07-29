@@ -47,7 +47,7 @@ Please note that the provided markdown text is a basic template for your project
 
 #### DevPost contacts:
 ##### Content manager: Ersultan Abdusattar (nickname: ersultanabdusattarov)
-##### Designer: Ганимурат Абжалиев (nickname: g-abzhaliyev)
+##### Designer's: Ганимурат Абжалиев (nickname: g-abzhaliyev) ; Ersultan Abdusattar (nickname: ersultanabdusattarov)
 
 ---
 
